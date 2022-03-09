@@ -2,5 +2,5 @@
 
 ## Nanodegree Projects
 
-- [x] [Project 2:](/project_2/) Trivia API
-- [x] [Project 3:](/project_3/) Coffee Shop Full Stack
+- [x] [Project 2:](/Project_2/) Trivia API
+- [x] [Project 3:](/Project_3/) Coffee Shop Full Stack
