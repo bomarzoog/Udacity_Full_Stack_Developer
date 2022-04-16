@@ -281,7 +281,7 @@ Casting_Agency API can be accessed on heroku on: https://fsnd-capstone-bomarzoog
  ```
 
  #### Response
-
+```
  {
   "movies": [
     {
@@ -312,3 +312,4 @@ Casting_Agency API can be accessed on heroku on: https://fsnd-capstone-bomarzoog
   "success": true,
   "total": 4
 }
+```
