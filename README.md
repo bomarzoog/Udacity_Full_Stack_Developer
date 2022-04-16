@@ -4,4 +4,4 @@
 
 - [x] [Project 2:](/Project_2/) Trivia API
 - [x] [Project 3:](/Project_3/) Coffee Shop Full Stack
-- [x] [Capstone:] (/Capstone/) Casting Agency API
+- [x] [Capstone:](/Capstone/) Casting Agency API
